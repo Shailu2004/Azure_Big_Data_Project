@@ -5,11 +5,11 @@ This project demonstrates a comprehensive Azure Data Engineering workflow using 
 
 Dataset Overview 📊
 The dataset used in this project is an e-commerce dataset, containing:
-Customer details
-Payment transactions
-Order information
-Other supporting data
-This dataset is stored in multiple sources, including SQL, MongoDB, and HTTP (GitHub). It offers a realistic and complex scenario for data engineering.
+  - Customer details
+  - Payment transactions
+  - Order information
+  - Other supporting data
+  -This dataset is stored in multiple sources, including SQL, MongoDB, and HTTP (GitHub). It offers a realistic and complex scenario for data engineering.
 ![HRhd2Y0](https://github.com/user-attachments/assets/5602eb52-3824-4463-9101-3afda594ba83)
 
 
