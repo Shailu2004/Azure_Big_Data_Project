@@ -1,6 +1,4 @@
 Azure End-to-End Data Engineering Project 🌟
-
--
 -
 ![Architecture Diagram](https://github.com/user-attachments/assets/47abf7e7-4b7a-4fb5-b824-06e1bb294220)
 
