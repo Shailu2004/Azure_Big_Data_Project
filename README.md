@@ -75,15 +75,11 @@ Stored the processed data in the Silver Layer of ADLS Gen2 in Parquet format.
 
 
 
-4. Visualization (Optional)
+4. Visualization 
   - While the visualization was not the primary focus, initial efforts were made to use tools like Power BI to visualize the data. Future improvements could include:
 Detailed dashboards.
 Integration with Tableau or Power BI for real-time reporting.
 Project Architecture 🏗️
-
-Below is the architecture diagram of the project for reference:
-
-
 
 Key Features and Highlights ✨
 
