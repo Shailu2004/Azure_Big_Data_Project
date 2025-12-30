@@ -12,9 +12,6 @@ The dataset used in this project is an e-commerce dataset, containing:
   - Other supporting data
   -This dataset is stored in multiple sources, including SQL, MongoDB, and HTTP (GitHub). It offers a realistic and complex scenario for data engineering.
 ![HRhd2Y0](https://github.com/user-attachments/assets/5602eb52-3824-4463-9101-3afda594ba83)
-<img width="1882" height="872" alt="Screenshot 2024-10-03 235440" src="https://github.com/user-attachments/assets/01b916ef-3dab-4ab1-a2ae-134e6016d25b" />
-
-
 
 Azure Resources Utilized 💡
   - Azure Data Factory (ADF): For data ingestion and pipeline orchestration.
